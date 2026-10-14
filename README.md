@@ -2,7 +2,7 @@
 
 Estudante de **Sistemas de Informação** | Desenvolvedor em formação
 
-Sou estudante de Sistemas de Informação, apaixonado por tecnologia e desenvolvimento de software. Estou construindo minha trajetória na área de TI por meio de projetos práticos, buscando transformar conhecimentos em soluções funcionais e continuar evoluindo como desenvolvedor.
+Sou estudante de Sistemas de Informação, atualmente no 6◦ período. Estou construindo minha trajetória na área de TI por meio de projetos práticos, buscando transformar conhecimentos em soluções funcionais e continuar evoluindo como desenvolvedor.
 
 Tenho interesse em **desenvolvimento web**, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades por meio da prática.
 
