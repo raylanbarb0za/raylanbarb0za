@@ -39,7 +39,7 @@ Projeto voltado à prática de programação e desenvolvimento de funcionalidade
 ### 🔹 [Quiz Educacional](https://github.com/raylanbarb0za/quizeducacional)
 Projeto educacional interativo desenvolvido para apoiar a aprendizagem de crianças e adolescentes por meio de perguntas e conteúdos de diferentes disciplinas.
 
-### 🔹 [NEXUS-SAFE](https://github.com/raylanbarb0za)
+### 🔹 [NEXUS-SAFE](https://github.com/raylanbarb0za/nexussafe)
 Projeto acadêmico em desenvolvimento, com foco em segurança cognitiva na Indústria 4.0, integração de tecnologias e identificação de riscos emergentes.
 
 ## Aprendizado contínuo
