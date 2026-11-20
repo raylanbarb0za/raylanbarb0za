@@ -18,7 +18,7 @@ Atualmente, estou focado em evoluir meus conhecimentos em JavaScript, Node.js, S
 **Back-end e dados**
 - Node.js
 - Express
-- SQLite
+- SQL
 
 **Outras ferramentas e conhecimentos**
 - Python
